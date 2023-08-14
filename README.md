@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sean Lee
 - 👀 I’m interested in reasoning and science fiction, landscape photography, football, and programming.
-- 💼 I’m working as an NLP algorithm engineer for a financial tech company.
 - 📫 xmlee97 at gmail.com
 
 <!---
